@@ -17,7 +17,13 @@ This repository showcases a simple agent-based travel schedule planner built usi
 
 ## 📁 Project Structure
 ```
-travel-schedule-planner-agent-langgraph/ ├── src/ # Core logic and utilities │ └── utils_email.py # Email formatting helper ├── test_node/ # Node-level test scripts ├── v2_not_used/ # Archived or experimental code ├── main.ipynb # Jupyter notebook demo ├── pyproject.toml # Dependency configuration └── README.md # Project overview
+travel-schedule-planner-agent-langgraph/ 
+├── src/ # Core logic and utilities 
+│ └── utils_email.py # Email formatting helper 
+├── test_node/ # Node-level test scripts 
+├── main.ipynb # Jupyter notebook demo 
+├── pyproject.toml # Dependency configuration 
+└── README.md # Project overview
 ```
 
 
